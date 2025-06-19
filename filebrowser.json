@@ -1,0 +1,9 @@
+{
+  "address": "0.0.0.0",
+  "port": 8300,
+  "database": "/database.db",
+  "root": "/srv",
+  "log": "stdout",
+  "username": "admin",
+  "password": "admin"
+}
